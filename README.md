@@ -4,6 +4,5 @@ Lightweight application used for modifying entries in XML files from GTA games. 
 Pairs well with OpenIV https://openiv.com
 
 # Supported File Types
-.xml
-
+.xml                          
 .meta
