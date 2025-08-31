@@ -5,4 +5,5 @@ Pairs well with OpenIV https://openiv.com
 
 # Supported File Types
 .xml
+
 .meta
