@@ -1,2 +1,3 @@
 # GTA-V-XML-Editor
-Lightweight application used for modifying entries in XML files from GTA games (but can also be used for other xml related work)
+Lightweight application used for modifying entries in XML files from GTA games. [But can also work on non GTA XML.]
+Pairs well with OpenIV https://openiv.com
